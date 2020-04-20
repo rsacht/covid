@@ -232,6 +232,7 @@ background-color: rgb(136, 224, 4);
 table {
   max-width:80%;
   margin: auto;
+  margin-bottom: 10px;
   display: block;
 }
 table, th, td {
